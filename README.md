@@ -12,5 +12,5 @@ Tokens per Play: 5<br>
 Auto-Deal: Enabled<br>
 Auto-Hint: Enabled<br>
 Statistics: Basic<br><br>
+![Screenshot from 2023-05-27 15 33 00](https://github.com/lexterror/Video-Poker-Vice-JS/assets/16135535/d4c1dd7b-db5c-4b74-8135-8bec6a57a7fc)
 
-![Screenshot from 2023-05-26 23 54 35](https://github.com/lexterror/Video-Poker-Vice-JS/assets/16135535/ec1f6d48-63f8-4e04-ad82-4fc500bdd3f2)
