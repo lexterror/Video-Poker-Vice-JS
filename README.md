@@ -1,8 +1,8 @@
 # Video-Poker-Vice-JS<br>
 A bare-bones Video Poker Game in JavaScript<br>
-<br><br>
+<br>
 # Features
-<br><br>
+<br>
 Card Decks: 1 (Standard 52)<br>
 Tokens per Play: 5<br>
 Auto-Deal: Enabled<br>
