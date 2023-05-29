@@ -13,4 +13,4 @@ Auto-Deal: Enabled<br>
 Auto-Hint: Enabled<br>
 Statistics: Basic<br><br>
 
-![Screenshot from 2023-05-27 23 58 42](https://github.com/lexterror/Video-Poker-Vice-JS/assets/16135535/7c6004a0-7af9-45ce-a878-c326741d36d0)
+![preview13](https://github.com/lexterror/Video-Poker-Vice-JS/assets/16135535/92eddac9-9e35-4fea-97e5-c6648e981e4d)
